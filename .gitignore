@@ -1,2 +1,4 @@
 requeriments.txt
 venv/
+# ignorar el cuaderno de 'Pruebas.ipynb' 
+Pruebas.ipynb
